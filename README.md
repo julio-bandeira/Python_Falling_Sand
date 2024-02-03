@@ -1,8 +1,10 @@
 # Python_Falling_Sand
 
-![](./images/fallingSand.gif)
+<p align="center">
+  <img src="./images/fallingSand.gif" width="500">
+</p>
 
-Simulando areia caindo
+Simulando areia caindo.
 
 Algoritmo Desenvolvido em Python 3.11, utilizando Visual Studio Code como IDE
 
